@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erin-ntnu
 - 👀 I’m interested in automated landslide detection, remote sensing and engineering geology. 
 - 🌱 I’m currently doing a PhD at NTNU
-- 📫 How to reach me erin.lindsay@ntnu.no
+- 📫 How to reach me erin.lindsay at ntnu.no
 
 <!---
 erin-ntnu/erin-ntnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
